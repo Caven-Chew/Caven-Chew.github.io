@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/caven-chew/static/css/main.a617e044.chunk.css",
+    "main.js": "/caven-chew/static/js/main.f0b79e9b.chunk.js",
+    "main.js.map": "/caven-chew/static/js/main.f0b79e9b.chunk.js.map",
+    "runtime-main.js": "/caven-chew/static/js/runtime-main.f83db46e.js",
+    "runtime-main.js.map": "/caven-chew/static/js/runtime-main.f83db46e.js.map",
+    "static/js/2.b3bafb39.chunk.js": "/caven-chew/static/js/2.b3bafb39.chunk.js",
+    "static/js/2.b3bafb39.chunk.js.map": "/caven-chew/static/js/2.b3bafb39.chunk.js.map",
+    "static/js/3.5338254f.chunk.js": "/caven-chew/static/js/3.5338254f.chunk.js",
+    "static/js/3.5338254f.chunk.js.map": "/caven-chew/static/js/3.5338254f.chunk.js.map",
+    "index.html": "/caven-chew/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/caven-chew/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b3bafb39.chunk.js.LICENSE.txt": "/caven-chew/static/js/2.b3bafb39.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/caven-chew/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f83db46e.js",
+    "static/js/2.b3bafb39.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f0b79e9b.chunk.js"
+  ]
+}
